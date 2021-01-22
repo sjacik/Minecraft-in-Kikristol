@@ -1,12 +1,12 @@
 {
   "pack": {
     "pack_format": 4,
-    "description": "Conlang Description"
+    "description": ""
   },
   "language": {
-    "my_cl": {
-      "name": "My Conlang",
-      "region": "Location Spoken",
+    "kr_wb": {
+      "name": "Kikristol",
+      "region": "Crystal City",
       "bidirectional": false
     }
   }
